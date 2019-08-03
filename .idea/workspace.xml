@@ -9,36 +9,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="224762da-113e-4705-b672-1a347d4970f6" name="Default" comment="成功搭建SSM框架">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/842e23e6-330e-46cc-b93d-75f54d845e18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12_beta_3.xml" afterDir="false" />
+    <list default="true" id="224762da-113e-4705-b672-1a347d4970f6" name="Default" comment="S">
       <change afterPath="$PROJECT_DIR$/D/wly/git/dreamland/logs/run.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/wang/dreamland/www/common/PageHelper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/TestTransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dreamland_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dreamland_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dreamland_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dreamland_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dreamland.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dreamland.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -87,7 +61,7 @@
           <entry key="class" value="39" />
           <entry key="java" value="20" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="19" />
+          <entry key="xml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -95,18 +69,20 @@
           <entry key="CLASS" value="39" />
           <entry key="JAVA" value="20" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="19" />
+          <entry key="XML" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="460" />
+          <entry key="txt" value="29" />
           <entry key="xml" value="254" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="460" />
+          <entry key="PLAIN_TEXT" value="29" />
           <entry key="XML" value="254" />
         </counts>
       </usages-collector>
@@ -117,20 +93,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestTransaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="295">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wang/dreamland/www/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -388,16 +355,6 @@
               <item name="dreamland" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dreamland" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dreamland" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -447,7 +404,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564820198899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564820224983" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="D:/project/cloud-manager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -459,6 +416,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dreamland\src\main\resources\mapping" />
       <recent name="F:\dreamland\src\main\resources" />
       <recent name="F:\dreamland\src\main\java\wang\dreamland\www" />
       <recent name="F:\dreamland\src\main\java\wang\dreamland\www\common" />
@@ -625,7 +583,7 @@
       <workItem from="1563083081807" duration="7297000" />
       <workItem from="1564208976979" duration="10700000" />
       <workItem from="1564450212477" duration="8087000" />
-      <workItem from="1564819399139" duration="633000" />
+      <workItem from="1564819399139" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="成功搭建SSM框架">
       <created>1562382727357</created>
@@ -634,13 +592,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562382727357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="框架调整测试完成">
+      <created>1564820263718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564820263718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTransaction_testSave - 2019.07.30 at 11h 34m 38s.xml">
-      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestTransaction_testSave - 2019.07.30 at 11h 35m 14s.xml">
       <configuration name="TestTransaction.testSave" configurationId="JUnit" />
     </history-entry>
@@ -668,9 +630,12 @@
     <history-entry file="TestTransaction_testSave - 2019.08.03 at 16h 12m 04s.xml">
       <configuration name="TestTransaction.testSave" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestTransaction_testSave - 2019.08.03 at 16h 15m 10s.xml">
+      <configuration name="TestTransaction.testSave" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52795000" />
+    <option name="totallyTimeSpent" value="53673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -703,7 +668,7 @@
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49798927" visible="true" weight="0.32340425" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49798927" visible="true" weight="0.2680851" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49785408" weight="0.014184397" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -731,7 +696,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="成功搭建SSM框架" />
-    <option name="LAST_COMMIT_MESSAGE" value="成功搭建SSM框架" />
+    <MESSAGE value="框架调整测试完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="框架调整测试完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,13 +718,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20760">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/842e23e6-330e-46cc-b93d-75f54d845e18/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/main/java/wang/dreamland/www/mapping/CommentMapper.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/wang/dreamland/www/entity/Role.java">
@@ -1062,10 +1021,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/CommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestTransaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="295">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
